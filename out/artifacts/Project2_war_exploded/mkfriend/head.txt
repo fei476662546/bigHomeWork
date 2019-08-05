@@ -1,0 +1,15 @@
+<%@ page contentType="text/html;charset=utf-8" %>
+<CENTER><Font size=10><P>网络交友</Font></CENTER>
+<table  cellSpacing="1" cellPadding="1" width="1000px" align="center" border="0" >
+   <tr valign="bottom">
+   <td><A href="Register.jsp"><font size=4>会员注册</font></A></td>
+   <td><A href="login.jsp"><font size=4>会员登录</font></A></td>
+   <td><A href="upload.jsp"><font size=4>上传照片</font></A></td>
+   <td><A href="showLookedMember.jsp"><font size=4>浏览会员</font></A></td>
+   <td><A href="inputModifyMess.jsp "><font size=4>修改注册信息</font></A></td>
+   <td><A href="modifyPassword.jsp"><font size=4>修改密码</font></A></td>
+   <td><A href="helpExitLogin"><font size4>退出登录</font></A></td>
+   <td><A href="index.jsp"><font size=4>返回主页</font></A></td>
+  </tr>
+  </Font>
+</table>
